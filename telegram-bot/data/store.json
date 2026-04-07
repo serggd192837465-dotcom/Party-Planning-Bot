@@ -1,0 +1,29 @@
+{
+  "guests": [
+    {
+      "id": "mnozpfdo6cd",
+      "name": "пидор",
+      "email": "pidor@mail.ru",
+      "status": "отправлено"
+    }
+  ],
+  "preferences": [],
+  "budget": {
+    "limit": 50000,
+    "expenses": []
+  },
+  "tasks": [
+    {
+      "id": "mnozsjdl70c",
+      "title": "task1",
+      "deadline": "2026-05-20",
+      "status": "в работе"
+    },
+    {
+      "id": "mnozsp0e4sd",
+      "title": "task2",
+      "deadline": "2026-05-20",
+      "status": "готово"
+    }
+  ]
+}
